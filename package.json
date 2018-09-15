@@ -1,0 +1,33 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "react": "^16.4.0",
+    "react-art": "16.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.0",
+    "react-native": "0.55.4",
+    "react-native-really-awesome-button": "^0.8.3",
+    "react-native-web": "0.7.3",
+    "react-navigation": "^2.6.2",
+    "react-reveal": "1.2.2",
+    "react-router": "4.2.0",
+    "react-router-dom": "^4.3.0-rc.3",
+    "react-scripts": "1.1.4",
+    "react-scroll-up-button": "^1.5.11",
+    "react-waypoint": "^8.0.1",
+    "really-smooth-scroll": "^2.1.1",
+    "styled-components": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

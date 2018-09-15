@@ -1,0 +1,71 @@
+.secpic {
+    width: 100%;
+    border: thick solid black;
+    height: 100%;
+    position: relative;
+}
+
+#whole {
+    margin-top: 0em;
+}
+
+.secpic2 {
+    width: 115px;
+    border: thick solid black;
+    height: 130px;
+    position: relative;
+    
+}
+
+.secpicanamxs {
+    width: 100px;
+    border: thick solid black;
+    height: 130px;
+    position: relative;
+    
+}
+
+.secpic3 {
+    width: 200px;
+    border: thick solid black;
+    height: 225px;
+    position: relative;
+    
+}
+
+.secpicanamlg {
+    width: 170px;
+    border: thick solid black;
+    height: 225px;
+    position: relative;
+    
+}
+
+.secpicanamlg {
+    width: 170px;
+    border: thick solid black;
+    height: 225px;
+    position: relative;
+    
+}
+
+.secpic5 {
+    width: 115px;
+    border: thick solid black;
+    height: 130px;
+    position: relative;
+}
+
+.secpicmelg{
+    width: 145px;
+    border: thick solid black;
+    height: 225px;
+    position: relative;
+}
+
+.secpicmexs{
+    width: 84px;
+    border: thick solid black;
+    height: 130px;
+    position: relative;
+}

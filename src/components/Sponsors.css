@@ -1,0 +1,22 @@
+#ipcont {
+    width: 100%;
+    margin-bottom: 10em;
+    border: thick solid black;
+}   
+#head {
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+  
+  #head2 {
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+  
+  #content{
+      overflow-y: scroll; 
+      width: 100%;
+      height: 100%;
+      border: medium solid black;
+  }
+  

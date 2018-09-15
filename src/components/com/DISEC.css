@@ -1,0 +1,29 @@
+@font-face {
+  font-family: MetropolisBlackItalic;
+  src : url('../fonts/Metropolis-BlackItalic.otf');
+}
+
+@font-face {
+  font-family: MetropolisBold;
+  src : url('../fonts/Metropolis-Bold.otf');
+}
+
+@font-face {
+    font-family: MetropolisBoldItalic;
+    src : url('../fonts/Metropolis-BoldItalic.otf');
+  }
+    
+#agenda {
+    font-family: MetropolisBoldItalic, Helvetica,  Arial, sans-serif;
+    font-size: 15px;  
+}
+
+#letter {
+  font-family: MetropolisBlackItalic, Helvetica,  Arial, sans-serif;
+  font-size: 18px;
+}
+
+
+#heading {
+  font-family: MetropolisBold, Helvetica,  Arial, sans-serif;
+}
